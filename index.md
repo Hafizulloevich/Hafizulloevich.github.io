@@ -36,7 +36,8 @@ Welcome to my portfolio!
 Woosong University – Daejeon, South Korea  
 *March 2022 – Present*  
 - Expected Graduation: August 2026  
-- Multiple competition winner  
+- [Multiple competition winner](https://www.notion.so/hoshimov/Woosong-University-Certificates-26e8571c63ed80458db5cf9f92fcd3cd)
+- Sol Green Police Volunteer 
 - CGPA: 4.4/4.5 (Top 1%)  
 
 **Bachelor of Finance and Accounting**  
@@ -59,7 +60,7 @@ Institute of Economy and Trade (IET TSUC) – Khujand, Tajikistan
   ---
   
 ## Certificates
-[**Go to Notion repository**](https://hoshimov.notion.site/Certificates-1508571c63ed80a0b125d4bceda53e25)
+[**Check certificates**](https://hoshimov.notion.site/Certificates-1508571c63ed80a0b125d4bceda53e25)
 
 [Download Resume (DOCX)](Resume_EN.docx)
 
