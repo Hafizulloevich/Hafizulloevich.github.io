@@ -5,8 +5,6 @@ title: "Hoshimov Mirzohamidullo"
 
 # Welcome to My Portfolio
 
-![Profile](assets/profile.jpg){: style="border-radius:50%; max-width:200px; margin:20px auto; display:block;"}
-
 Hello! I'm **Hoshimov Mirzohamidullo**, a Junior Data Scientist and student at Woosong University (Daejeon, Korea).  
 I'm passionate about Machine Learning, Computer Vision, Natural Language Processing, and Recurrent Neural Networks.  
 Welcome to my portfolio!
