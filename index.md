@@ -13,22 +13,34 @@ Welcome to my portfolio!
 
 ---
 
-## Resume
+## Experience
 
-- 🎓 Bachelor of Convergence Management (Business Administration), Woosong University — CGPA: 4.4/4.5  
-- 📊 Statistician at Genius Sports (part-time, 2024–2025)  
-- 🛍️ Former Sales Associate at Williams Sonoma (Dubai, 2021–2022)  
-- 🏆 IBM Data Science Professional Certificate, 2nd place in AIEP Contest  
-
+•	Junior Data Scientis at FynexAI                 August 2025 – Present               Khujand city, Tajikistan
+•	Data Collection & Validation                     
+•	Modeling
+•	Statistician at Genius Sports                   June 2024 – January 2025            Daejeon city, South Korea
+•	Data Collection                        
+•	Tabular Data Analysis
+•	Sales Executive at Williams Sonoma              May 2021 – February 2022            Dubai, United Arab Emirates
+•	Provided high-quality customer service.
+•	Administrative tasks, including daily sales analysis & delivery system management. 
 👉 [Download Resume (DOCX)](Resume_EN.docx)
 
 ---
 
-## Projects
+## Education
 
-- 🤖 **AI in Education Presentation** — Explored applications of AI in modern classrooms  
-- ⚽ **Sports Data Analysis** — Work as a statistician analyzing live match data  
-- 🐶 **Cat & Dog Classification** — Built FastAPI model hosted on Hugging Face  
+•	Bachelor of Convergence Management (Business Administration):
+Woosong University - Daejeon, South Korea              March 2022 - Present
+•	Expected graduating 2026 August.
+•	Multiple-courses competition winner.
+•	CGPA: 4.4/4.5.
+•	Graduating top 1%.
+•	Bachelor of Finance and Accounting:
+Institute of Economy and Trade  (IET TSUC)-            September 2020 – January 2021
+Khujand, Tajikistan                                                             
+•	CGPA: 3.7/4.0.
+•	Gymnasium №4 – Khujand, Tajikistan:                  September 2009 – June 2020   •	GPA: 5.0/5.0. 
 
 ---
 
@@ -36,6 +48,6 @@ Welcome to my portfolio!
 
 - 📧 Email: hoshimovmirzohamidullo@gmail.com  
 - 🌐 GitHub: [Hafizulloevich](https://github.com/Hafizulloevich)  
-- 💼 LinkedIn: [LinkedIn Profile](#)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hoshimov/)
 
 ---
