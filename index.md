@@ -28,8 +28,6 @@ Welcome to my portfolio!
 - Provided high-quality customer service  
 - Daily sales analysis & delivery system management  
 
-👉 [Download Resume (DOCX)](Resume_EN.docx)
-
 ---
 
 ## Education
@@ -56,6 +54,12 @@ Institute of Economy and Trade (IET TSUC) – Khujand, Tajikistan
 
 - 📧 Email: [hoshimovmirzohamidullo@gmail.com](mailto:hoshimovmirzohamidullo@gmail.com)  
 - 🌐 GitHub: [Hafizulloevich](https://github.com/Hafizulloevich)  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hoshimov/)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hoshimov/)
 
+  ---
+  
+## Certificates
+[**Notion**](https://hoshimov.notion.site/Certificates-1508571c63ed80a0b125d4bceda53e25)
+
+[Download Resume (DOCX)](Resume_EN.docx)
 ---
