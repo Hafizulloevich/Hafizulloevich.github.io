@@ -59,7 +59,7 @@ Institute of Economy and Trade (IET TSUC) – Khujand, Tajikistan
   ---
   
 ## Certificates
-[**Notion**](https://hoshimov.notion.site/Certificates-1508571c63ed80a0b125d4bceda53e25)
+[**Go to Notion repository**](https://hoshimov.notion.site/Certificates-1508571c63ed80a0b125d4bceda53e25)
 
 [Download Resume (DOCX)](Resume_EN.docx)
----
+
